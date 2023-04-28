@@ -1,0 +1,27 @@
+{
+  "name": "discordbottemplate",
+  "version": "1.0.0",
+  "description": "a template for a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realcryptc/DiscordBotTemplate.git"
+  },
+  "author": "realcryptc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realcryptc/DiscordBotTemplate/issues"
+  },
+  "homepage": "https://github.com/realcryptc/DiscordBotTemplate#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "path": "^0.12.7",
+    "pg": "^8.10.0",
+    "sequelize": "^6.31.0"
+  }
+}
