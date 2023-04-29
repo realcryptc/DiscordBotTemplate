@@ -6,8 +6,7 @@
   "scripts": {
     "test": "test",
     "start": "node index.js",
-    "deploy": "node deploy_commands.js",
-    "lint": "npm run lint"
+    "deploy": "node deploy_commands.js"
   },
   "repository": {
     "type": "git",
